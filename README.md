@@ -1,2 +1,2 @@
 # Lavanville_Tower
-Jeu de combatas inspiré des creepyPasta de Pokémons
+Jeu de combats inspiré des creepyPasta de Pokémons
